@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.scripts.DownloadFileTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-19T09:22:02" hostname="admin123-desktop" time="1.749">
+  <properties/>
+  <testcase name="downloadFileTest" classname="com.bridgelabz.scripts.DownloadFileTest" time="1.749"/>
+  <system-out><![CDATA[File Downloading...Please Wait for some time......
+File Downloaded Successfully
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 4405
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jan 19, 2020 2:51:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
