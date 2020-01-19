@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b28bc23f-aadd-44c1-884e-5f5bd56f545a" name="Default Changelist" comment="" />
+    <list default="true" id="b28bc23f-aadd-44c1-884e-5f5bd56f545a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/base/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/base/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/DownloadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/DownloadPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/UploadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/UploadPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/properties/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/properties/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DownloadFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DownloadFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/UploadPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/UploadPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.scripts.DownloadFileTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.scripts.DownloadFileTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +40,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -19,7 +57,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WbIuNlHJVPIJC1t0Mrj3W21TX7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
@@ -36,13 +79,13 @@
       <recent name="$PROJECT_DIR$/Drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DownloadFileTest">
-    <configuration name="DownloadFileTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.PDFReaderTest">
+    <configuration name="PDFReaderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.DownloadFileTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.PDFReaderTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -57,12 +100,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DownloadFileTest.downloadFileTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PDFReaderTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.DownloadFileTest.downloadFileTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.PDFReaderTest.test&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -77,12 +120,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UploadPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PDFReaderTest.verifyPDFContent" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.UploadPageTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.PDFReaderTest.verifyPDFContent&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -97,12 +140,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UploadPageTest.loginPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PopUpWindowHandlerTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.UploadPageTest.loginPageTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.PopUpWindowHandlerTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.Test&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -119,10 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DownloadFileTest" />
-        <item itemvalue="Gradle.DownloadFileTest.downloadFileTest" />
-        <item itemvalue="Gradle.UploadPageTest" />
-        <item itemvalue="Gradle.UploadPageTest.loginPageTest" />
+        <item itemvalue="Gradle.PDFReaderTest" />
+        <item itemvalue="Gradle.PDFReaderTest.test" />
+        <item itemvalue="Gradle.PDFReaderTest.verifyPDFContent" />
+        <item itemvalue="Gradle.Test" />
+        <item itemvalue="Gradle.PopUpWindowHandlerTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579412088354</updated>
-      <workItem from="1579412094534" duration="7991000" />
+      <workItem from="1579412094534" duration="14305000" />
     </task>
     <servers />
   </component>
@@ -156,21 +220,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="911" height="201" key="GridCell.Tab.0.bottom" timestamp="1579426191237">
+    <state x="226" y="27" width="629" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579431110598">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="201" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579426191237" />
-    <state width="911" height="201" key="GridCell.Tab.0.center" timestamp="1579426191236">
+    <state x="226" y="27" width="629" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.957.741@67.27.957.741" timestamp="1579431110597" />
+    <state width="911" height="55" key="GridCell.Tab.0.bottom" timestamp="1579432576780">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="201" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579426191236" />
-    <state width="911" height="201" key="GridCell.Tab.0.left" timestamp="1579426191236">
+    <state width="911" height="55" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579432576780" />
+    <state width="911" height="55" key="GridCell.Tab.0.center" timestamp="1579432576779">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="201" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579426191236" />
-    <state width="911" height="201" key="GridCell.Tab.0.right" timestamp="1579426191236">
+    <state width="911" height="55" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579432576779" />
+    <state width="911" height="55" key="GridCell.Tab.0.left" timestamp="1579432576779">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="201" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579426191236" />
+    <state width="911" height="55" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579432576779" />
+    <state width="911" height="55" key="GridCell.Tab.0.right" timestamp="1579432576780">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="55" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579432576780" />
+    <state x="67" y="27" width="947" height="741" key="new project wizard" timestamp="1579429612435">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="67" y="27" width="947" height="741" key="new project wizard/67.27.957.741@67.27.957.741" timestamp="1579429612435" />
   </component>
 </project>
