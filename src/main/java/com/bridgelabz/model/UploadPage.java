@@ -11,14 +11,22 @@
 package com.bridgelabz.model;
 
 import com.bridgelabz.base.BaseClass;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.awt.*;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.KeyEvent;
+import java.util.Iterator;
+import java.util.Set;
+
 public class UploadPage extends BaseClass
 {
-    @FindBy(xpath = "//input[@id='imagesrc']")
+    @FindBy(xpath = "//input[@id='uploadfile_0']")
     private WebElement clickOnUpload;
 
     //constructor
@@ -28,12 +36,8 @@ public class UploadPage extends BaseClass
         PageFactory.initElements(driver, this);
     }
 
-    //Utilization
-    public void clickOnSelectFileButton()
+    public void clickOnUpload()
     {
-        clickOnUpload.sendKeys("/home/admin123/Desktop/xyz.txt");
+        clickOnUpload.click();
     }
-
-
-
 }

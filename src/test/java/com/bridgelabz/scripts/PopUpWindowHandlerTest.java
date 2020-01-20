@@ -1,7 +1,17 @@
-package com.bridgelabz.scripts;
 
+/******************************************************************************
+ *
+ *  Author  Deepali Kalagate
+ *
+ *  Purpose: Test for Popup Window Handler.
+ *  @since   19-01-2020
+ *
+ ******************************************************************************/
+
+package com.bridgelabz.scripts;
 import com.bridgelabz.base.BaseClass;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import java.util.Iterator;
 import java.util.Set;
@@ -12,7 +22,6 @@ public class PopUpWindowHandlerTest extends BaseClass
     public void test()
     {
         driver.findElement(By.xpath("//*[contains(@href,'popup.php')]")).click();
-
         String MainWindow=driver.getWindowHandle();
 
         // To handle all new opened window.
@@ -41,3 +50,4 @@ public class PopUpWindowHandlerTest extends BaseClass
         driver.switchTo().window(MainWindow);
     }
 }
+

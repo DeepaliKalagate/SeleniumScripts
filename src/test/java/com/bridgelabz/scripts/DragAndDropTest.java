@@ -3,24 +3,23 @@
  *
  *  Author  Deepali Kalagate
  *
- *  Purpose: Test for Upload file.
- *  @since   19-01-2020
+ *  Purpose: Test for Drag and Drop elements using Actions Class.
+ *  @since   20-01-2020
  *
  ******************************************************************************/
 
 package com.bridgelabz.scripts;
 
+import com.bridgelabz.DataDriven.DragAndDrop;
 import com.bridgelabz.base.BaseClass;
 import org.testng.annotations.Test;
 
-import java.awt.*;
-
-public class UploadPageTest extends BaseClass {
+public class DragAndDropTest extends BaseClass
+{
     @Test
-    public void uploadFileTest()
+    public void DragnDrop()
     {
-
-
-        System.out.println("File Uploaded Successfully");
+        DragAndDrop dragAndDrop=new DragAndDrop(driver);
+        dragAndDrop.dragAnddrop();
     }
 }
