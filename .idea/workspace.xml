@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b28bc23f-aadd-44c1-884e-5f5bd56f545a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/base/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/base/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/UploadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/UploadPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/AlertHandlingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/AlertHandlingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DownloadFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DownloadFileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DragAndDropTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DragAndDropTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/OTPHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PDFReaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PDFReaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PopUpWindowHandlerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/UploadPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/UploadPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/WindowHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/WindowHandlerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.scripts.WindowHandlerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.scripts.WindowHandlerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/base/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/base/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/model/UploadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/model/UploadPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/AlertHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/AlertHandlingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DownloadFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DownloadFileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DragAndDropTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DragAndDropTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/OTPHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PDFReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PDFReaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PopUpWindowHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/MultipleWindowHandlerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/UploadPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/UploadPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/WindowHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/WindowHandlerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,8 +194,8 @@
       <item itemvalue="Gradle.PopUpWindowHandlerTest.test" />
       <item itemvalue="Gradle.UploadPageTest.testUpload" />
       <item itemvalue="Gradle.OTPHandlerTest.test" />
-      <item itemvalue="TestNG./home/admin123/SeleniumScripts/src/test/java/com/bridgelabz/scripts/TestNG.xml" />
       <item itemvalue="Gradle.MultipleWindowHandlerTest.test" />
+      <item itemvalue="TestNG./home/admin123/SeleniumScripts/src/test/java/com/bridgelabz/scripts/TestNG.xml" />
     </list>
     <recent_temporary>
       <list>
@@ -271,7 +233,8 @@
       <workItem from="1579493042793" duration="23199000" />
       <workItem from="1579580961916" duration="4462000" />
       <workItem from="1579599116794" duration="8826000" />
-      <workItem from="1579669576812" duration="15062000" />
+      <workItem from="1579669576812" duration="15308000" />
+      <workItem from="1579692525837" duration="867000" />
     </task>
     <servers />
   </component>
@@ -305,26 +268,26 @@
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state x="278" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.957.741@67.27.957.741" timestamp="1579691435973" />
-    <state width="911" height="182" key="GridCell.Tab.0.bottom" timestamp="1579692257761">
+    <state width="911" height="182" key="GridCell.Tab.0.bottom" timestamp="1579692414400">
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state width="1253" height="125" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579672397360" />
-    <state width="911" height="182" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579692257761" />
-    <state width="911" height="182" key="GridCell.Tab.0.center" timestamp="1579692257663">
+    <state width="911" height="182" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579692414400" />
+    <state width="911" height="182" key="GridCell.Tab.0.center" timestamp="1579692414398">
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state width="1253" height="125" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579672397359" />
-    <state width="911" height="182" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579692257663" />
-    <state width="911" height="182" key="GridCell.Tab.0.left" timestamp="1579692257663">
+    <state width="911" height="182" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579692414398" />
+    <state width="911" height="182" key="GridCell.Tab.0.left" timestamp="1579692414398">
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state width="1253" height="125" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579672397358" />
-    <state width="911" height="182" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579692257663" />
-    <state width="911" height="182" key="GridCell.Tab.0.right" timestamp="1579692257760">
+    <state width="911" height="182" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579692414398" />
+    <state width="911" height="182" key="GridCell.Tab.0.right" timestamp="1579692414399">
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state width="1253" height="125" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579672397359" />
-    <state width="911" height="182" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579692257760" />
+    <state width="911" height="182" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579692414399" />
     <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1579599057792">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

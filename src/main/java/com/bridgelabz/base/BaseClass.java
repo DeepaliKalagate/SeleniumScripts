@@ -16,6 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
 
 import java.util.concurrent.TimeUnit;
 
@@ -27,7 +28,7 @@ public class BaseClass implements ConstantPaths
     // for launching the browser
 
     @BeforeMethod(description = "load driver for test")
-    public void setUp()
+    public void setUp(String browserName)
     {
         options.addArguments("--disable-notifications");
         System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver");
