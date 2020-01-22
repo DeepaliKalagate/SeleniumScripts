@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/home/admin123/SeleniumScripts">
+        <classes>
+            <class name="com.bridgelabz.scripts.AlertHandlingTest">
+                <methods>
+                    <include name="testAlert"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.DownloadFileTest">
+                <methods>
+                    <include name="downloadFileTest"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.DragAndDropTest">
+                <methods>
+                    <include name="DragnDrop"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.MultipleWindowHandlerTest">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.OTPHandlerTest">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.PDFReaderTest">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.UploadPageTest">
+                <methods>
+                    <include name="testUpload"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.scripts.WindowHandlerTest">
+                <methods>
+                    <include name="testMultipleWindows"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

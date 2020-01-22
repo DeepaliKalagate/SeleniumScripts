@@ -20,6 +20,7 @@ public class DragAndDropTest extends BaseClass
     public void DragnDrop()
     {
         DragAndDrop dragAndDrop=new DragAndDrop(driver);
+        driver.get("http://demo.guru99.com/test/drag_drop.html");
         dragAndDrop.dragAnddrop();
     }
 }

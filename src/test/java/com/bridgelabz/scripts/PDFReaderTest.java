@@ -22,6 +22,7 @@ public class PDFReaderTest extends BaseClass
     public void test() throws IOException, InterruptedException
     {
         PDFReader pdfReader=new PDFReader(driver);
+        driver.get("https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf");
         pdfReader.verifyPDFContent();
         Thread.sleep(3000);
         System.out.println("Pdf Opened Successfully");

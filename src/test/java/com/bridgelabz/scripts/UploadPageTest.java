@@ -11,16 +11,18 @@
 package com.bridgelabz.scripts;
 
 import com.bridgelabz.base.BaseClass;
+import com.bridgelabz.model.UploadPage;
 import org.testng.annotations.Test;
 
-import java.awt.*;
-
-public class UploadPageTest extends BaseClass {
+public class UploadPageTest extends BaseClass
+{
     @Test
-    public void uploadFileTest()
+    public void testUpload() throws InterruptedException
     {
-
-
+        UploadPage uploadPage=new UploadPage(driver);
+        driver.get("http://demo.automationtesting.in/Register.html");
+        uploadPage.clickOnSelectFileButton();
+        Thread.sleep(1000);
         System.out.println("File Uploaded Successfully");
     }
 }

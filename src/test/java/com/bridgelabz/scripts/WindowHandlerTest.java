@@ -10,6 +10,7 @@ public class WindowHandlerTest extends BaseClass
     public void testMultipleWindows() throws InterruptedException
     {
         WindowHandler windowHandler=new WindowHandler();
+        driver.get("http://demo.guru99.com/popup.php");
         windowHandler.handleWindow();
     }
 }

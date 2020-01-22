@@ -12,29 +12,36 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/DataDriven/PDFReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/DataDriven/PDFReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/base/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/base/BaseClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/UploadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/model/UploadPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/AlertHandlingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/AlertHandlingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DownloadFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DownloadFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DragAndDropTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/DragAndDropTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/OTPHandler.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PDFReaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PDFReaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PopUpWindowHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PopUpWindowHandlerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/PopUpWindowHandlerTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/UploadPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/UploadPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.scripts.PDFReaderTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/WindowHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/scripts/WindowHandlerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.scripts.WindowHandlerTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.scripts.PDFReaderTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.scripts.WindowHandlerTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/DataDriven/PDFReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/DataDriven/PDFReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/base/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/base/BaseClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/model/UploadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/model/UploadPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/AlertHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/AlertHandlingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DownloadFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DownloadFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DragAndDropTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/DragAndDropTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/OTPHandler.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PDFReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PDFReaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PopUpWindowHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PopUpWindowHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/PopUpWindowHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/MultipleWindowHandlerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/UploadPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/UploadPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/WindowHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/WindowHandlerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +59,12 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -79,19 +91,46 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bridgelabz.DataDriven" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.WindowHandlerTest.testMultipleWindows">
-    <configuration name="AlertHandlingTest.testAlert" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MultipleWindowHandlerTest.test">
+    <configuration name="MultipleWindowHandlerTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.AlertHandlingTest.testAlert&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.MultipleWindowHandlerTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OTPHandlerTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.OTPHandlerTest.test&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -126,12 +165,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UploadPageTest.uploadFileTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UploadPageTest.testUpload" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.UploadPageTest.uploadFileTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.UploadPageTest.testUpload&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -146,53 +185,63 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WindowHandlerTest.testMultipleWindows" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.WindowHandlerTest.testMultipleWindows&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="/home/admin123/SeleniumScripts/src/test/java/com/bridgelabz/scripts/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumScripts.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/bridgelabz/scripts/TestNG.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="WindowHandler.testMultipleWindows" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.scripts.WindowHandler.testMultipleWindows&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.PopUpWindowHandlerTest.test" />
+      <item itemvalue="Gradle.UploadPageTest.testUpload" />
+      <item itemvalue="Gradle.OTPHandlerTest.test" />
+      <item itemvalue="TestNG./home/admin123/SeleniumScripts/src/test/java/com/bridgelabz/scripts/TestNG.xml" />
+      <item itemvalue="Gradle.MultipleWindowHandlerTest.test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.WindowHandlerTest.testMultipleWindows" />
-        <item itemvalue="Gradle.WindowHandler.testMultipleWindows" />
+        <item itemvalue="Gradle.MultipleWindowHandlerTest.test" />
+        <item itemvalue="TestNG./home/admin123/SeleniumScripts/src/test/java/com/bridgelabz/scripts/TestNG.xml" />
+        <item itemvalue="Gradle.OTPHandlerTest.test" />
+        <item itemvalue="Gradle.UploadPageTest.testUpload" />
         <item itemvalue="Gradle.PopUpWindowHandlerTest.test" />
-        <item itemvalue="Gradle.UploadPageTest.uploadFileTest" />
-        <item itemvalue="Gradle.AlertHandlingTest.testAlert" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +268,10 @@
       <option name="presentableId" value="Default" />
       <updated>1579412088354</updated>
       <workItem from="1579412094534" duration="14370000" />
-      <workItem from="1579493042793" duration="22760000" />
+      <workItem from="1579493042793" duration="23199000" />
+      <workItem from="1579580961916" duration="4462000" />
+      <workItem from="1579599116794" duration="8826000" />
+      <workItem from="1579669576812" duration="15062000" />
     </task>
     <servers />
   </component>
@@ -227,33 +279,64 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="67" y="54" width="957" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579686329867">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="174" y="54" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1579599759470" />
+    <state x="67" y="54" width="957" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.957.741@67.27.957.741" timestamp="1579686329867" />
+    <state x="278" y="180" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579679031973">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="278" y="180" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/67.27.957.741@67.27.957.741" timestamp="1579679031973" />
+    <state x="348" y="195" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579686327090">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="448" y="195" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1579599755483" />
+    <state x="348" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.957.741@67.27.957.741" timestamp="1579686327090" />
+    <state x="298" y="257" width="594" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579679035235">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="298" y="257" width="594" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.957.741@67.27.957.741" timestamp="1579679035235" />
     <state x="226" y="27" width="629" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579527855192">
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state x="226" y="27" width="629" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.957.741@67.27.957.741" timestamp="1579527855192" />
-    <state width="911" height="64" key="GridCell.Tab.0.bottom" timestamp="1579527906074">
+    <state x="278" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579691435973">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="1253" height="368" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579496179861" />
-    <state width="911" height="64" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579527906074" />
-    <state width="911" height="64" key="GridCell.Tab.0.center" timestamp="1579527906073">
+    <state x="278" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.957.741@67.27.957.741" timestamp="1579691435973" />
+    <state width="911" height="182" key="GridCell.Tab.0.bottom" timestamp="1579692257761">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="1253" height="368" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579496179861" />
-    <state width="911" height="64" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579527906073" />
-    <state width="911" height="64" key="GridCell.Tab.0.left" timestamp="1579527906071">
+    <state width="1253" height="125" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579672397360" />
+    <state width="911" height="182" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579692257761" />
+    <state width="911" height="182" key="GridCell.Tab.0.center" timestamp="1579692257663">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="1253" height="368" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579496179860" />
-    <state width="911" height="64" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579527906071" />
-    <state width="911" height="64" key="GridCell.Tab.0.right" timestamp="1579527906074">
+    <state width="1253" height="125" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579672397359" />
+    <state width="911" height="182" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579692257663" />
+    <state width="911" height="182" key="GridCell.Tab.0.left" timestamp="1579692257663">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="1253" height="368" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579496179861" />
-    <state width="911" height="64" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579527906074" />
-    <state x="67" y="27" width="947" height="741" key="new project wizard" timestamp="1579429612435">
+    <state width="1253" height="125" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579672397358" />
+    <state width="911" height="182" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579692257663" />
+    <state width="911" height="182" key="GridCell.Tab.0.right" timestamp="1579692257760">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state x="67" y="27" width="947" height="741" key="new project wizard/67.27.957.741@67.27.957.741" timestamp="1579429612435" />
+    <state width="1253" height="125" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579672397359" />
+    <state width="911" height="182" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579692257760" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1579599057792">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1579599057792" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579599117513">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579599117513" />
+    <state x="67" y="27" width="947" height="741" key="new project wizard" timestamp="1579689872900">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="67" y="27" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579601993269" />
+    <state x="67" y="27" width="947" height="741" key="new project wizard/67.27.957.741@67.27.957.741" timestamp="1579689872900" />
   </component>
 </project>

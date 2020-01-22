@@ -19,7 +19,7 @@ public class DownloadFileTest extends BaseClass
     public void downloadFileTest() throws InterruptedException
     {
         DownloadPage downloadPage=new DownloadPage(driver);
-
+        driver.get("https://filebin.net/cofw5afkxpwzfk28");
         downloadPage.clickOnDownloadButton();
         Thread.sleep(500);
         downloadPage.clickOnSelectFileButton();

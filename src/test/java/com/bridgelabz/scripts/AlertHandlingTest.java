@@ -10,6 +10,7 @@ public class AlertHandlingTest extends BaseClass
     public void testAlert() throws InterruptedException
     {
         AlertHandler alertHandler=new AlertHandler(driver);
+        driver.get("https://mail.rediff.com/cgi-bin/login.cgi");
         Thread.sleep(1000);
         alertHandler.click();
         Thread.sleep(1000);

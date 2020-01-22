@@ -11,12 +11,12 @@
 package com.bridgelabz.base;
 
 import com.bridgelabz.constants.ConstantPaths;
-import com.bridgelabz.properties.Library;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+
 import java.util.concurrent.TimeUnit;
 
 public class BaseClass implements ConstantPaths
@@ -30,9 +30,9 @@ public class BaseClass implements ConstantPaths
     public void setUp()
     {
         options.addArguments("--disable-notifications");
-        System.setProperty(CHROMEKEY, CHROMEVALUE);
+        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver");
         driver = new ChromeDriver(options);
-        String url = Library.getProperty(CONFIGPATH, "URL");
+
         //Maximizes the browser window
         driver.manage().window().maximize();
         //Delete all cookies
@@ -40,8 +40,6 @@ public class BaseClass implements ConstantPaths
         driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
         //implicit wait
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-        // launch Chrome and redirect it to the Base URL
-        driver.get(url);
     }
 
     //Close Driver
